@@ -1,4 +1,4 @@
-### BuyzMania eCommerce App
+# BuyzMania eCommerce App
 
 ## Overview
 
@@ -20,7 +20,7 @@ Responsive UI: (To be implemented in the front-end development phase)
 
 ## Tech Stack
 
-# Back-End (Located in BackEnd/)
+### Back-End (Located in BackEnd/)
 
 Node.js / Express.js
 
@@ -30,7 +30,7 @@ RESTful API
 
 JWT Authentication
 
-# Front-End (To be developed)
+### Front-End (To be developed)
 
 Planned to use React.js / Next.js
 
@@ -46,7 +46,7 @@ Node.js (v16+ recommended)
 
 MongoDB (Installed & Running)
 
-NPM or Yarn
+NPM 
 
 ## Steps
 
