@@ -61,10 +61,10 @@ Create a .env file in the BackEnd/ directory and configure the necessary environ
 
 3. Install Dependencies
 
-# Backend
 cd BackEnd
 npm install
 
 4. Start the Application
+
 cd BackEnd
 npm start
